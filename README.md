@@ -1,1 +1,2 @@
-# Salary_prediction
+# Salary_Prediction
+** predicted the salary using linear regression **
